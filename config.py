@@ -19,7 +19,7 @@ API_ID = "23264133"
 API_HASH = "945e5b76ce8550bebbeeaf5599e7ce58"
 WORKERS = 5
 
-DB_URI = "mongodb"
+DB_URI = "mongodb+srv://e55791917_db_user:RzXaeGE3AagxvADd@cluster0.ryscv19.mongodb.net/?appName=Cluster0"
 DB_NAME = "eren"
 
 FSUBS = [[-1002404962081, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
